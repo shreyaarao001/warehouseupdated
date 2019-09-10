@@ -16,7 +16,7 @@ import com.warehousemanagement.Bean.ItemInfo;
 import com.warehousemanagement.Bean.Transactions;
 /*
  * This controller is used for billing first it will check the value in customer_info and item_info table if the value is present
- * than it will do billing
+ * than it will do billing for customer
  */
 @Controller
 @RequestMapping("transactioncontrol")
